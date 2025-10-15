@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      <div>
-        <img src="src\assets\lily-png-46482.png" className="logo" alt="Картинка" />
+      <div className='logo'>
+        <h2>Практика React (❁´◡`❁)</h2>
       </div>
       <h1>Ефимова Дарья 426-ВЕБ</h1>
     </>
